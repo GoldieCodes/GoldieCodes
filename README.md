@@ -1,23 +1,21 @@
 <!-- Header with a sleek intro and profile badge -->
 <div align="center">
 
-# Onyinye Udeozo  
-**Frontend Engineer | WordPress Custom Designer**  
-
-![Profile Badge](https://img.shields.io/badge/Frontend_Developer-Next.js%20%7C%20React%20%7C%20Tailwind-blue?style=flat-square&logo=vercel)  
+# Onyinye U. 
+**Frontend Engineer | WordPress Designer**  
 </div>  
 
 ---
 
 ## Hi ☺️ happy you're here!  
 
-I am **Onyinye**, a frontend engineer with additional expertise in **WordPress custom design**.  
+I am **Onyinye**. I specialise in front-end web development with additional expertise in WordPress custom design.  
 
 ---
 
-😎 **Here's a little more about me:**  
+😎 **Here's about me in a nutshell:**  
 
-So, I'm a web developer, and I love what I do. I would have said I'm passionate and creative, but I don't want to bore you. Here's something fresh for you:  
+I'm a developer, and I love what I do. I would have said I'm passionate and creative, which are true, but I don't want to bore you. Here's something fresh for you:  
 
 > **I'm the developer you need to work with if you value perfection and care for someone meticulous.**  
 
@@ -27,13 +25,13 @@ So, I'm a web developer, and I love what I do. I would have said I'm passionate 
 
 ---
 
-📌 💯 **But here's something more important:**  
+💯 **But here's something more important:**  
 
 I **learn fast** and am always open to **reviews** and **adopting new technology**.  
 
 🤨 Wondering why that is important? Because technology **changes rapidly**—an expert today can become outdated tomorrow when new tools emerge.  
 
-🔎 **Above expertise, I am a forward thinker.**  
+> 📌 **Beyond expertise, I am a forward thinker.**
 
 🤩 **Love me already or wish to know me more?**  
 
@@ -41,7 +39,7 @@ I **learn fast** and am always open to **reviews** and **adopting new technology
 
 ---
 
-## 📫 How to reach me:  
+## 📫 Now reach out to me:  
 
 📧 **Email:** [og.udeozo@gmail.com](mailto:og.udeozo@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/gold-onyinye](https://www.linkedin.com/in/gold-onyinye)  
@@ -62,3 +60,7 @@ I **learn fast** and am always open to **reviews** and **adopting new technology
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
 </p>
+
+### 📊 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldieCodes&layout=compact&theme=dark" alt="Most Used Languages" />
