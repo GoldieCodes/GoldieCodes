@@ -13,9 +13,9 @@ Email:
 og.udeozo@gmail.com
 
 LinkedIn:
-https://www.linkedin.com/in/onyinye-gold
+https://www.linkedin.com/in/gold-onyinye
 
 💬 Ask me about Reactjs,Nextjs, Tailwind,SASS,Nodejs,React Native,Mongodb,MySql,Postgresql,PHP,Expressjs
 
 Languages and Tools:
-bootstrap css3 d3js express git vercel html5 javascript mongodb mysql express nodejs postgresql react reactnative redux tailwind typescript
+bootstrap css3 express git vercel html5 javascript mongodb mysql express nodejs postgresql react reactnative redux tailwind typescript
