@@ -15,7 +15,7 @@ I am **Onyinye**. I specialise in front-end web development with additional expe
 
  **Here's about me in a nutshell:**  
 
-I'm a developer, and I love what I do. I would have said ~~I'm passionate and creative~~, which are true, but I don't want to bore you. Here's something fresh for you:  
+I'm a developer, and I love what I do. I would have said I'm ~~passionate~~ and ~~creative~~, which are true, but I don't want to bore you. Here's something fresh for you:  
 
 **I'm the developer you need to work with if you value perfection and care for someone meticulous.**  
 
