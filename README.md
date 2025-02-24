@@ -39,7 +39,7 @@ I **learn fast** and am always open to **reviews** and **adopting new technology
 
 ---
 
-## 📫 Now reach out to me:  
+## 📫 How to reach me:  
 
 📧 **Email:** [og.udeozo@gmail.com](mailto:og.udeozo@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/gold-onyinye](https://www.linkedin.com/in/gold-onyinye)  
