@@ -15,7 +15,7 @@ I am **Onyinye**. I specialise in front-end web development with additional expe
 
 ## Here's about me in a nutshell:
 
-I'm ~~passionate~~ and ~~creative~~ (true, but I don't want to bore you). Here's something fresh for you:  
+I'm ~~passionate~~ and ~~creative~~ (true, but I don't want to bore you). Here's something to think about:  
 
 **I'm the developer you need to work with if you value perfection and care for someone meticulous.**  
 
@@ -68,7 +68,3 @@ I **learn fast** and am always open to **reviews** and **adopting new technology
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express"/>
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui"/>
 </p>
-
-### 📊 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldieCodes&layout=compact&theme=dark" alt="Most Used Languages" />
