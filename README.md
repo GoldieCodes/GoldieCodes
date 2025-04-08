@@ -7,9 +7,9 @@
 
 ---
 
- Hi ☺️ happy you're here!  
+ Hi ☺️, I am **Onyinye**. I’m a front-end focused full-stack dev who builds fast, maintainable web apps using TypeScript, React, and Node.
 
-I am **Onyinye**. I specialise in front-end web development with additional expertise in WordPress custom design.  
+I’ve led the development of enterprise applications, turned Figma mocks into production-ready UIs, and recently expanded into backend with MongoDB, Express, and server-side rendering in Next.js.
 
 ---
 
@@ -36,6 +36,8 @@ I **learn fast** and am always open to **reviews** and **adopting new technology
 🤩 **Love me already or wish to know me more?**  
 
 📄 **[Here's a broader view of my qualifications](https://drive.google.com/file/d/1NXrFxd7k0GxFpnHfHdBcF2altt_i6ilz/view?usp=drivesdk)**  
+
+I’m currently open to roles where I can help teams move faster and smarter while continuing to grow toward senior-level impact.
 
 ---
 
