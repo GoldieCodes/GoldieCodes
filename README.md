@@ -2,7 +2,7 @@
 <div align="center">
 
 # Onyinye Gold U. 
-**Frontend Engineer | WordPress Designer**  
+**Full-Stack Developer | WordPress Designer**  
 </div>  
 
 ---
