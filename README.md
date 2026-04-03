@@ -1,39 +1,12 @@
 <!-- Header with a sleek intro and profile badge -->
 <div align="center">
 
-# Onyinye Gold U. 
-**Full-Stack Developer | WordPress Designer**  
+# Onyinye Gold U.  
 </div>  
 
----
+📄 **[A broader view of my qualifications](https://drive.google.com/file/d/1AaxfJHOYj7buTq2JrJ0WQy8qWDWncE9J/view?usp=sharing)**  
 
-I’m a front-end focused full-stack dev who builds fast, maintainable web apps using TypeScript, React, and Node.
-
-I’ve turned Figma mocks into production-ready UIs, and recently expanded into backend with MongoDB, Express, and server-side rendering in Next.js.
-
----
-
-## Here's about me in a nutshell:
-
-I'm ~~passionate~~ and ~~creative~~ (true, but I don't want to bore you). Here's something to think about:  
-
-**I'm the developer you need to work with if you value perfection and care for someone meticulous.**  
-
-> 💡 I work best when developing from **Figma designs**, ensuring **pixel-perfect implementation** down to the minute details.  
-
-🚀 I am fluent with **Next.js, React, and Tailwind**. I have mastered the **rudiments of SEO** and **clean coding principles**.  
-
----
-
-💯 **But here's something more important:**  
-
-I **learn fast** and I'm always open to **reviews** and **adopting new technology**.  
-
-🤨 Wondering why that is important? Because technology **changes rapidly**—an expert today can become outdated tomorrow when new tools emerge.  
-
-📄 **[Here's a broader view of my qualifications](https://drive.google.com/file/d/1AaxfJHOYj7buTq2JrJ0WQy8qWDWncE9J/view?usp=sharing)**  
-
-I’m currently open to roles where I can help teams move faster and smarter while continuing to grow toward senior-level impact.
+Open to roles where I can help teams move faster and smarter while continuing to grow toward senior-level impact.
 
 ---
 
