@@ -3,9 +3,7 @@
 
 Open to roles where I can help teams move faster and smarter while continuing to grow toward senior-level impact.
 
----
-
-## 📫 How to reach me:  
+📫 How to reach me:  
 
 📧 **Email:** [og.udeozo@gmail.com](mailto:og.udeozo@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/gold-onyinye](https://www.linkedin.com/in/gold-onyinye)  
