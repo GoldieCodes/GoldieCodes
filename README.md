@@ -27,11 +27,11 @@ I'm ~~passionate~~ and ~~creative~~ (true, but I don't want to bore you). Here's
 
 💯 **But here's something more important:**  
 
-I **learn fast** and am always open to **reviews** and **adopting new technology**.  
+I **learn fast** and I'm always open to **reviews** and **adopting new technology**.  
 
 🤨 Wondering why that is important? Because technology **changes rapidly**—an expert today can become outdated tomorrow when new tools emerge.  
 
-📄 **[Here's a broader view of my qualifications](https://drive.google.com/file/d/1RVjoiNfEVqaybbJDhOW1tlP9YKCyPDd1/view?usp=drivesdk)**  
+📄 **[Here's a broader view of my qualifications](https://drive.google.com/file/d/1AaxfJHOYj7buTq2JrJ0WQy8qWDWncE9J/view?usp=sharing)**  
 
 I’m currently open to roles where I can help teams move faster and smarter while continuing to grow toward senior-level impact.
 
